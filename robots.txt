@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trigitaltech.com/sitemap.xml
